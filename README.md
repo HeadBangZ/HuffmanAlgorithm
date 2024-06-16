@@ -8,3 +8,4 @@ And ofcourse left and right child.
 - Creative
 - Mindboggling
 - Fun
+- Inspirational
